@@ -1,0 +1,10 @@
+React is a library while angular and Vue.js are frameworks 
+
+React focucues on UI while anguarl anf Vue.js offer full comprehensive tools for full app development 
+
+React library is function specific while angular and vue.js are set of amy tools and guidliness 
+
+
+
+React main role is crating dynamic uis 
+- it doesn't handle routing , http calls , state management and more 

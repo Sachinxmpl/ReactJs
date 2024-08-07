@@ -1,0 +1,21 @@
+.appcontainer{
+  display : flex ; 
+ 
+}
+.content{
+  width : 100% ; 
+}
+.sidebar{
+  height : 100vh ; 
+
+}
+
+
+.form{
+  width : 50% ; 
+  margin : 50px 10% ; 
+}
+.reactions {
+  display:  flex;
+  gap : 20px ; 
+}

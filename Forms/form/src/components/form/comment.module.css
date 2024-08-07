@@ -1,0 +1,16 @@
+.commentContainer{
+    display : flex; 
+    flex-direction: row;
+    flex-wrap : wrap ; 
+    gap : 20px ; 
+    align-items: center;
+    justify-content: center;
+    margin-top :20px ; 
+}
+.comment{
+    border : 2px solid rgb(90, 80, 80);
+    height: 230px;
+    max-width: 320px;
+    padding : 0px 20px  ;
+    border-radius: 10px;
+}

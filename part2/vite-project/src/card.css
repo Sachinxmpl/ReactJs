@@ -1,0 +1,26 @@
+.item{
+    border :2px solid blue ; 
+    border-radius : 12px ;
+    height  : 163px ; 
+    width : 170px ; 
+    display : flex ; 
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.container{
+    display : flex ; 
+    flex-direction: row;
+    flex-wrap : wrap ; 
+    gap : 10px ; 
+}
+.price{
+    border-radius : 0 0 12px 12px ; 
+    display : flex ; 
+    justify-content: center;
+    font-weight: 550;
+    padding :10px 0px ; 
+    width : 170px ;
+    color : white;
+    background-color: rgb(108, 51, 5);
+}
