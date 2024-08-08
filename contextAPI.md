@@ -19,7 +19,7 @@ There are other libraries for state-management like Redux , zustand which can be
 # Using context api 
 
 ```
-    step 1 : Create a context in same of differenct file 
+    step 1 : Create a context in same or different file 
     
             import React, { createContext } from "react"
 
@@ -39,10 +39,10 @@ There are other libraries for state-management like Redux , zustand which can be
                 const [user , setUser] = useState(null)
                 return (
                     <userTestContext.Provider
-                    value = {
-                        {
-                            user , setUser 
-                        }
+                            value = {
+                                {
+                                    user , setUser 
+                                }
                     }>
                         {
                             children
